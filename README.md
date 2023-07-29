@@ -24,4 +24,4 @@ Características principales:
 
 🔷 Contribuciones Bienvenidas: Siéntete libre de contribuir con tus propios proyectos o componentes. Las contribuciones de la comunidad son altamente valoradas y pueden enriquecer este repositorio con nuevas ideas y enfoques.
 
-¡Esperamos que este repositorio se convierta en una fuente de inspiración y aprendizaje para todos aquellos interesados en React! Si tienes alguna pregunta o sugerencia, no dudes en abrir un problema o enviar una solicitud de extracción. ¡Disfruta explorando y creando con React! 🎉
+¡Esperamos que este repositorio se convierta en una fuente de inspiración y aprendizaje para todos aquellos interesados en React! ¡Disfruta explorando y creando con React! 🎉
