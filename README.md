@@ -8,7 +8,7 @@
 # Proyectos en React ⚛️
 
 Este repositorio de GitHub está destinado a ser una carpeta central que albergará varios emocionantes proyectos desarrollados con **React**
-**[](https://www.youtube.com/channel/UCRihtbEEWNl6fRuAMX8-3yw)**
+**[hg](https://www.youtube.com/channel/UCRihtbEEWNl6fRuAMX8-3yw)**
 </div>
 
 ## 📹 Videos con las clases
