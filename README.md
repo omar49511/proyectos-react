@@ -8,10 +8,10 @@ Este repositorio de GitHub está destinado a ser una carpeta central que alberga
 
 </div>
 
-## 📹 Videos con las clases
+## ⌨ Características principales:
 
 
-Características principales:
+
 
 🔷 **Diversidad de Proyectos:** Este repositorio albergará una amplia variedad de proyectos, desde pequeñas aplicaciones de demostración hasta aplicaciones más complejas y completas. Cada proyecto será único y servirá como una oportunidad para aprender nuevos conceptos y técnicas.
 
