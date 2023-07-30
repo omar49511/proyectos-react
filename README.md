@@ -1,8 +1,5 @@
 <div align="center">
-<img src="https://github.com/omar49511/proyectos-react/assets/72781778/53f7500c-718b-4cea-8977-e2d0269edbf1" alt="portada: proyectos de react.js" style="width: 200px; height: 200px;" />
-
-![image608](https://github.com/omar49511/proyectos-react/assets/72781778/53f7500c-718b-4cea-8977-e2d0269edbf1)
-
+<img src="https://github.com/omar49511/proyectos-react/assets/72781778/53f7500c-718b-4cea-8977-e2d0269edbf1" alt="portada: proyectos de react.js" style="width: 500px; height: 500px;" />
 
 
 # Proyectos en React ⚛️
