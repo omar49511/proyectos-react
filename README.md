@@ -2,8 +2,6 @@
 
 ![image](https://github.com/omar49511/proyectos-react/assets/72781778/788719a9-1e4f-4ade-b5e5-2f1b20108e30)
 
-" width="500" />
-
 # Proyectos en React ⚛️
 
 Este repositorio de GitHub está destinado a ser una carpeta central que albergará varios emocionantes proyectos desarrollados con **React**
