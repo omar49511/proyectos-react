@@ -1,6 +1,7 @@
 <div align="center">
 
-![image](https://github.com/omar49511/proyectos-react/assets/72781778/788719a9-1e4f-4ade-b5e5-2f1b20108e30)
+![image](https://github.com/omar49511/proyectos-react/assets/72781778/2dd93487-0ff2-49cc-bc43-86c726190019)
+
 
 # Proyectos en React ⚛️
 
