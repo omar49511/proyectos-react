@@ -27,7 +27,7 @@ function Notes() {
             <NoteItem key={note.id} note={note} />
           ))}
         </div>
-        <Link class="button-fixed" to="/create">
+        <Link class="button-fixed" to="/create-note">
           <BsPlusLg />
         </Link>
       </section>
