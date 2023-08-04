@@ -1,25 +1,8 @@
-function noteItem({ note: { titulo, fecha, prioridad, color } }) {
+function noteItem({ note: { titulo, fecha } }) {
   return (
-    <div
-      style={{
-        display: "flex",
-      }}
-    >
-      <div
-        style={{
-          background: color,
-          margin: "4px",
-          width: "200px",
-          padding: "2px",
-          borderRadius: "10px",
-          display: "flex",
-          flexDirection: "column",
-        }}
-      >
-        <p>{titulo}</p>
-        <span>{fecha}</span>
-      </div>
-      <span>{prioridad}</span>
+    <div className="card">
+      <h2 className="card__h2">{titulo}</h2>
+      <span className="card__span">{fecha}</span>
     </div>
   );
 }
