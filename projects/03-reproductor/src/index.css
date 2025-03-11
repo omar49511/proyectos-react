@@ -1,0 +1,97 @@
+@import "tailwindcss";
+
+:root {
+  --background: 0 0% 0%;
+  --foreground: 0 0% 100%;
+
+  --primary: 267 75% 60%;
+  --primary-foreground: 0 0% 100%;
+
+  --secondary: 180 75% 60%;
+  --secondary-foreground: 0 0% 100%;
+
+  --accent: 330 75% 60%;
+  --accent-foreground: 0 0% 100%;
+
+  --muted: 267 50% 20%;
+  --muted-foreground: 267 50% 80%;
+}
+
+@layer base {
+  body {
+    @apply bg-black text-white;
+  }
+
+  /* Estilizar el input range para el volumen */
+  input[type="range"] {
+    -webkit-appearance: none;
+    height: 4px;
+    background: rgba(128, 90, 213, 0.3);
+    border-radius: 5px;
+    background-image: linear-gradient(to right, #a855f7, #a855f7);
+    background-size: 70% 100%;
+    background-repeat: no-repeat;
+  }
+
+  input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    background: #a855f7;
+    cursor: pointer;
+    box-shadow: 0 0 5px rgba(168, 85, 247, 0.5);
+  }
+
+  input[type="range"]::-moz-range-thumb {
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    background: #a855f7;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 0 5px rgba(168, 85, 247, 0.5);
+  }
+}
+
+@layer components {
+  .glow-purple {
+    box-shadow: 0 0 15px theme("colors.purple.500");
+  }
+
+  .glow-cyan {
+    box-shadow: 0 0 15px theme("colors.cyan.500");
+  }
+
+  .glow-pink {
+    box-shadow: 0 0 15px theme("colors.pink.500");
+  }
+
+  .bigcircle {
+    @apply w-16 h-16 rounded-full flex items-center justify-center;
+    background-image: repeating-radial-gradient(
+        transparent 0%,
+        rgba(255, 255, 255, 0.1) 1%,
+        transparent 2%
+      ),
+      linear-gradient(
+        -150deg,
+        transparent 40%,
+        rgba(255, 255, 255, 0.2),
+        transparent 60%
+      );
+  }
+
+  .mediumcircle {
+    @apply w-8 h-8 rounded-full flex items-center justify-center border border-white;
+    background: radial-gradient(
+      circle,
+      rgba(255, 0, 0, 1) 0%,
+      rgba(139, 0, 0, 1) 100%
+    );
+  }
+
+  .smallcircle {
+    @apply w-[4px] h-[4px] bg-white rounded-full;
+  }
+}
