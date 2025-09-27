@@ -3,6 +3,7 @@
 
 <img width="84" height="103" alt="distintivo_ens_certificacion" src="https://github.com/user-attachments/assets/ce676790-d7fb-4da2-9944-9fdcb7a8ddb7" />
 
+<img width="162" height="50" alt="Simplification 2" src="https://github.com/user-attachments/assets/09cb3018-38fd-4ec1-9963-3a91a37ad695" />
 
 # Proyectos en React ⚛️
 
